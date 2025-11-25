@@ -383,9 +383,6 @@ Contributions are welcome! Here's how you can help:
 ## Author
 
 **Nina Dragićević**  
-Student ID: RA 148/2021  
-University of Belgrade - School of Electrical Engineering  
-Contact: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
