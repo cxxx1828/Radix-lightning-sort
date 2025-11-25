@@ -404,15 +404,6 @@ MIT License - Free for commercial and private use
 
 ---
 
-## References
-
-- [Radix Sort - Wikipedia](https://en.wikipedia.org/wiki/Radix_sort)
-- [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/books/introduction-algorithms)
-- [C23 Standard](https://en.cppreference.com/w/c/23)
-- [Counting Sort Stability](https://www.geeksforgeeks.org/counting-sort/)
-
----
-
 ## Future Roadmap
 
 - [ ] Multi-threaded parallelization for multi-core CPUs
@@ -426,14 +417,6 @@ MIT License - Free for commercial and private use
 
 ---
 
-## Questions?
-
-Have questions or suggestions? Feel free to:
-- Open an [Issue](https://github.com/YOUR_USERNAME/lightning-sort/issues)
-- Start a [Discussion](https://github.com/YOUR_USERNAME/lightning-sort/discussions)
-- Email the author
-
----
 
 **LightningSort - Because O(n log n) just isn't fast enough**
 
